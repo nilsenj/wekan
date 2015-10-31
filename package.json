@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wekan/wekan.git"
+    "url": "git+https://github.com/nilsenj/wekan.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wekan/wekan/issues"
+    "url": "https://github.com/nilsenj/wekan/issues"
   },
   "homepage": "http://wekan.io",
   "devDependencies": {
