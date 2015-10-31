@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3691d039-faaa-4288-9f8d-7efedbc678c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/i18n/ru.i18n.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/boards/boardHeader.jade" afterPath="$PROJECT_DIR$/client/components/boards/boardHeader.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/boards/boardsList.jade" afterPath="$PROJECT_DIR$/client/components/boards/boardsList.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i18n/ru.i18n.json" afterPath="$PROJECT_DIR$/i18n/ru.i18n.json" />
     </list>
     <ignored path="wekan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,20 +110,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ru.i18n.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ru.i18n.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/i18n/ru.i18n.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.961538">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="boardsList.jade" pinned="false" current-in-tab="true">
+      <file leaf-file-name="boardsList.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/components/boards/boardsList.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24392936">
+            <state vertical-scroll-proportion="0.0">
               <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
@@ -162,9 +158,9 @@
         <option value="$PROJECT_DIR$/client/components/lists/listHeader.js" />
         <option value="$PROJECT_DIR$/client/components/lists/listHeader.jade" />
         <option value="$PROJECT_DIR$/client/lib/modal.js" />
-        <option value="$PROJECT_DIR$/i18n/ru.i18n.json" />
         <option value="$PROJECT_DIR$/client/components/boards/boardHeader.jade" />
         <option value="$PROJECT_DIR$/client/components/boards/boardsList.jade" />
+        <option value="$PROJECT_DIR$/i18n/ru.i18n.json" />
       </list>
     </option>
   </component>
@@ -615,7 +611,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1051,18 +1047,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/i18n/ru.i18n.json">
+    <entry file="file://$PROJECT_DIR$/client/components/boards/boardsList.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.961538">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/boards/boardsList.jade">
+    <entry file="file://$PROJECT_DIR$/i18n/ru.i18n.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24392936">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
