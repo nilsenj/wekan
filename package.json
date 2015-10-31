@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/nilsenj/wekan/issues"
   },
-  "homepage": "http://wekan.io",
+  "homepage": "https://iw-board.herokuapp.com/",
   "devDependencies": {
     "babel-eslint": "4.1.3",
     "eslint": "1.7.3",
